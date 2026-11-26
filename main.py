@@ -7,6 +7,7 @@ Stdlib only, deterministic, no network, no randomness, no clock.
 import os
 
 # FINAL (v4): sold-the-data turn. Rubric /25: C1 5, C2 5, C3 5, C4 5, C5 4 = 24.
+# Final line is 81 chars, inside the 1-140 gate, single line, no profanity.
 # Beats v1 (23: betrayal only implied) and v2 (23: kill-switch is a common
 # trope, three beats). v3 is a completed betrayal with a self-serving
 # motive; deadpan "kept the receipt" plus the final beat ("buy myself
